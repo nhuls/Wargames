@@ -85,7 +85,7 @@ int BinaryAI(int _target)
 	{
 		tries++;
 		//get prediction
-		int prediction = ((highParameter - lowParameter) / 2) + lowParameter;
+		int prediction = ((highParameter - lowParameter) / 2) + lowParameter; 
 
 		//test prediction
 
